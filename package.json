@@ -1,0 +1,26 @@
+{
+  "name": "simulazione",
+  "version": "1.0.0",
+  "description": "Prova",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddlucad96/simulazione.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddlucad96/simulazione/issues"
+  },
+  "homepage": "https://github.com/ddlucad96/simulazione#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jest": "^22.0.5",
+    "node-fetch": "^1.7.3",
+    "node-fetch-json": "0.0.3"
+  }
+}
